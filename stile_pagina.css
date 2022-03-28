@@ -1,0 +1,28 @@
+table.comune tr {
+    background-color: #9cbee6; <!--ddd;-->
+}
+        
+table.comune th, td{border:1px solid #FFF}
+th{background:#0E3259;color:#FFF}
+
+
+table.dati { width:20%;
+    border: 1px solid #000;
+    border-collapse:collapse;
+    background-color: #0E3259;
+}
+
+
+table.dati tr {
+    background-color: #9cbee6; <!--ddd;-->
+}
+
+table.dati tr.alternate {
+    background-color: #d3e2ea;
+}
+table.dati tr:hover {
+            background-color: #ffffff;
+        }
+        
+table.dati th, td{border:1px solid #FFF;border-collapse:collapse}
+th{background:#0E3259;color:#FFF}
